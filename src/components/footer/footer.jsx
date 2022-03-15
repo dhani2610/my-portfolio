@@ -7,7 +7,7 @@ const Footer = () => {
             <Row>
                 <Col className='justify-content-center'>
                     <div className='footer'>
-                        <h5>Created By Andaka 2022</h5>
+                        <span>Created By Andaka 2022</span>
                     </div>
                 </Col>
             </Row>
